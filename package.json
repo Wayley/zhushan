@@ -10,6 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "mand-mobile": "^1.0.4",
     "mpvue": "^1.0.8",
     "vuex": "^2.3.1"
   },
